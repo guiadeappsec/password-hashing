@@ -1,2 +1,3 @@
 # password-hashing
-Code samples for hashing passwords with bcrypt and argon2
+
+Code samples for hashing passwords with bcrypt and argon2.
